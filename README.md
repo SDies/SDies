@@ -1,4 +1,8 @@
 ### Hi there 👋
+<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=a+real+techie+at+heart+%26+developer" alt="Typing SVG" /></a>
+
+
+<a href="https://bmc.link/sdiesel" target="_blank"> <img src=" https://cdn.buymeacoffee.com/buttons/default-orange.png " alt="By me a coffee" height="41" width="174"></a>
 
 <!--
 **SDies/SDies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
